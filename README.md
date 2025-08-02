@@ -40,3 +40,6 @@ Upload the '.ino' file to Arduino UNO or Simulate on Wokwi using the Link https:
 
 #License
 This project is a open source for educational purposes.
+
+#Author
+Vedha H V- August 2025
