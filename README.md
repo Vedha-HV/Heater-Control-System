@@ -36,7 +36,7 @@ using Wokwi online simulation
 -If temperature exceeds 40 degree celcius ,the buzzer sounds.
 
 #Setup
-Upload the '.ino' file to Arduino UNO or Simulate on Wokwi.
+Upload the '.ino' file to Arduino UNO or Simulate on Wokwi using the Link https://wokwi.com/projects/438092918849123329.
 
 #License
 This project is a open source for educational purposes.
